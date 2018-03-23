@@ -1,8 +1,4 @@
 // Programming excercice by Toni Takomo 23.3.2018
-// React implementation
-// Improvement ideas:
-// Bootstrap to dynamically change the UX depending available screen size.
-// Server error handling alert
 
 import React, { Component } from 'react';
 import './App.css';
